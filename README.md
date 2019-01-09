@@ -4,6 +4,7 @@ This code will help to add subView to mainView According to the mainView Frames 
 
 
 `
+
     //Variables Declaration
     var fitSubViewToMainViewFrame:CGRect!
 
